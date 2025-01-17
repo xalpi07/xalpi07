@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Alpízar</h1>
 <h3 align="center">A passionate Software Developer from Costa Rica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
-
-
 - 📫 How to reach me: **Drop me an email at esteban.alpizar93@gmail.com**
 
 - ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
